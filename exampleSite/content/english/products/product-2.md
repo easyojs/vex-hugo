@@ -1,5 +1,5 @@
 ---
-title: "Silver"
+title: "Gold"
 date: 2020-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-2.png"
@@ -10,8 +10,8 @@ images:
 description : "this is meta description"
 
 # product Price
-price: "450.00"
-discount_price: "439.00"
+price: "780.00"
+discount_price: "729.00"
 
 draft: false
 ---
