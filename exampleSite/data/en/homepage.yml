@@ -6,7 +6,7 @@ banner:
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Browse All Hosting Options"
    link : "products"
 
 ############################# Feature ############################
@@ -31,7 +31,6 @@ features:
   - title : "Easy Pricing"
     icon : "tf-ion-ios-cart-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
 
   # feature at the right of the image
   right_side:
@@ -83,7 +82,7 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our Productss"
+  title : "Checkout Our Hosting Options"
 
 
 ################################## Subscription ###################
