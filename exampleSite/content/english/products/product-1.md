@@ -11,8 +11,8 @@ images:
   - "images/showcase/showcase-3.png"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "280.00"
+discount_price: "269.00"
 
 draft: false
 ---
