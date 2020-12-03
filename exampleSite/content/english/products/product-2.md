@@ -9,7 +9,7 @@ description : "this is meta description"
 
 # product Price
 price: "450.00"
-discount_price: "729.00"
+discount_price: "439.00"
 
 draft: false
 ---
