@@ -1,5 +1,5 @@
 ---
-title: "Silver"
+title: "Gold"
 date: 2020-10-17T11:22:16+06:00
 images: 
   - "images/showcase/showcase-3.png"
