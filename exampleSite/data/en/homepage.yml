@@ -97,7 +97,7 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "What Our Customers Are Saying"
   testimonial_item:
     # testimonial item loop
     - name : "Jonathon Andrew"
