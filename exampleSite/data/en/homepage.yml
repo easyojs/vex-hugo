@@ -6,7 +6,7 @@ banner:
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Browse All Our Hosting Options"
    link : "products"
 
 ############################# Feature ############################
@@ -83,7 +83,7 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Checkout Our All Hosting Options"
 
 
 ################################## Subscription ###################
