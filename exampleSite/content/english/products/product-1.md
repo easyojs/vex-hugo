@@ -5,6 +5,9 @@ date: 2020-10-17T11:22:16+06:00
 # meta description
 description : "this is meta description"
 
+images: 
+  - "images/showcase/showcase-1.png"
+
 # product Price
 price: "30.00"
 discount_price: "25.00"
