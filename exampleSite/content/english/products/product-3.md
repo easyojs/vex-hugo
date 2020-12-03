@@ -10,8 +10,8 @@ images:
 description : "this is meta description"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "780.00"
+discount_price: "729.00"
 
 draft: false
 ---
